@@ -1,3 +1,8 @@
 language: java
 jdk:
 - oraclejdk8
+deploy:
+  provider: heroku
+  api_key:
+    secure: 1b81a06b-1ca2-4c08-8cd4-8d2d49e977df 
+  app: hk-gs-spring-boot-pantun

@@ -6,7 +6,7 @@
 	<artifactId>spring-boot-starter-01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HK - First Spring Boot Example</name>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
